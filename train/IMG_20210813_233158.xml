@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20210813_233158.jpg</filename>
+	<path>/my-project-name/IMG_20210813_233158.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>hand sanitizer</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>778</xmin>
+			<ymin>869</ymin>
+			<xmax>1926</xmax>
+			<ymax>3098</ymax>
+		</bndbox>
+	</object>
+</annotation>
