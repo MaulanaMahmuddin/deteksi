@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>indomie_indomie_kari_ayam_72gr_full05_ldaupbg7.jpg</filename>
+	<path>/my-project-name/indomie_indomie_kari_ayam_72gr_full05_ldaupbg7.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>indomie kari ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>109</ymin>
+			<xmax>784</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

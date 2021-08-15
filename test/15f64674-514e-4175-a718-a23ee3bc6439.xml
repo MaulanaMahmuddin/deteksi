@@ -1,0 +1,73 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>15f64674-514e-4175-a718-a23ee3bc6439.jpg</filename>
+	<path>/my-project-name/15f64674-514e-4175-a718-a23ee3bc6439.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>76</ymin>
+			<xmax>416</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>16</ymin>
+			<xmax>254</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>14</ymin>
+			<xmax>495</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>221</ymin>
+			<xmax>498</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>211</ymin>
+			<xmax>231</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

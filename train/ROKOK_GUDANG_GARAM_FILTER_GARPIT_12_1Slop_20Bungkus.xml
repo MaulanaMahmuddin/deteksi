@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>ROKOK_GUDANG_GARAM_FILTER_GARPIT_12_1Slop_20Bungkus.jpg</filename>
+	<path>/my-project-name/ROKOK_GUDANG_GARAM_FILTER_GARPIT_12_1Slop_20Bungkus.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>garam filter</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>50</ymin>
+			<xmax>299</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garam filter</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>47</ymin>
+			<xmax>546</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

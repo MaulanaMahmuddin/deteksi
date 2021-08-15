@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>1588837061.Indomie Kari Ayam 2.jpg</filename>
+	<path>/my-project-name/1588837061.Indomie Kari Ayam 2.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>indomie kari ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>31</ymin>
+			<xmax>477</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

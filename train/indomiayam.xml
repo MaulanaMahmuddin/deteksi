@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>indomiayam.jpg</filename>
+	<path>/my-project-name/indomiayam.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>749</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>440</ymin>
+			<xmax>594</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>indomie ayam bawang</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>359</ymin>
+			<xmax>732</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
